@@ -1,0 +1,14 @@
+/home/gus/git/C_sharp/TestProject/bin/Debug/net8.0/TestProject
+/home/gus/git/C_sharp/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/gus/git/C_sharp/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/gus/git/C_sharp/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/gus/git/C_sharp/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/ref/TestProject.dll

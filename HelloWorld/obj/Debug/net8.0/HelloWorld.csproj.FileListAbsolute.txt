@@ -1,0 +1,14 @@
+/home/gus/git/C_sharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/gus/git/C_sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/gus/git/C_sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/gus/git/C_sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/gus/git/C_sharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/gus/git/C_sharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

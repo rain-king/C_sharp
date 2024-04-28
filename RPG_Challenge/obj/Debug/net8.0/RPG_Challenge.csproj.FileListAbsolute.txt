@@ -1,0 +1,14 @@
+/home/gus/git/C_sharp/RPG_Challenge/bin/Debug/net8.0/RPG_Challenge
+/home/gus/git/C_sharp/RPG_Challenge/bin/Debug/net8.0/RPG_Challenge.deps.json
+/home/gus/git/C_sharp/RPG_Challenge/bin/Debug/net8.0/RPG_Challenge.runtimeconfig.json
+/home/gus/git/C_sharp/RPG_Challenge/bin/Debug/net8.0/RPG_Challenge.dll
+/home/gus/git/C_sharp/RPG_Challenge/bin/Debug/net8.0/RPG_Challenge.pdb
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.AssemblyInfoInputs.cache
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.AssemblyInfo.cs
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.csproj.CoreCompileInputs.cache
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.dll
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/refint/RPG_Challenge.dll
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.pdb
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/RPG_Challenge.genruntimeconfig.cache
+/home/gus/git/C_sharp/RPG_Challenge/obj/Debug/net8.0/ref/RPG_Challenge.dll

@@ -1,0 +1,14 @@
+/home/gus/git/C_sharp/FizzBuzz/bin/Debug/net8.0/FizzBuzz
+/home/gus/git/C_sharp/FizzBuzz/bin/Debug/net8.0/FizzBuzz.deps.json
+/home/gus/git/C_sharp/FizzBuzz/bin/Debug/net8.0/FizzBuzz.runtimeconfig.json
+/home/gus/git/C_sharp/FizzBuzz/bin/Debug/net8.0/FizzBuzz.dll
+/home/gus/git/C_sharp/FizzBuzz/bin/Debug/net8.0/FizzBuzz.pdb
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/FizzBuzz.genruntimeconfig.cache
+/home/gus/git/C_sharp/FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll

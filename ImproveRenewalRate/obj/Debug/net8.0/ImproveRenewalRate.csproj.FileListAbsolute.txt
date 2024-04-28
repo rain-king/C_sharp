@@ -1,0 +1,14 @@
+/home/gus/git/C_sharp/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate
+/home/gus/git/C_sharp/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.deps.json
+/home/gus/git/C_sharp/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.runtimeconfig.json
+/home/gus/git/C_sharp/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.dll
+/home/gus/git/C_sharp/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.pdb
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.AssemblyInfoInputs.cache
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.AssemblyInfo.cs
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.csproj.CoreCompileInputs.cache
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.dll
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/refint/ImproveRenewalRate.dll
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.pdb
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.genruntimeconfig.cache
+/home/gus/git/C_sharp/ImproveRenewalRate/obj/Debug/net8.0/ref/ImproveRenewalRate.dll
