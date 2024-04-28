@@ -1,0 +1,14 @@
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.deps.json
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.dll
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/bin/Debug/net6.0/Starter.pdb
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.dll
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/refint/Starter.dll
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.pdb
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/home/gus/git/C_sharp/Challenge-project-Create-methods-in-CSharp-main/Starter/obj/Debug/net6.0/ref/Starter.dll

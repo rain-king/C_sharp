@@ -12,3 +12,4 @@
 /home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.pdb
 /home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
 /home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/ref/TestProject.dll
+/home/gus/git/C_sharp/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
