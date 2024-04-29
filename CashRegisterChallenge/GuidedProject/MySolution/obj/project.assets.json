@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gus/git/C_sharp/Guided-project-debugging-CSharp-main/GuidedProject/MySolution/Starter.csproj",
+      "projectUniqueName": "/home/gus/git/C_sharp/CashRegisterChallenge/GuidedProject/MySolution/Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "/home/gus/git/C_sharp/Guided-project-debugging-CSharp-main/GuidedProject/MySolution/Starter.csproj",
+      "projectPath": "/home/gus/git/C_sharp/CashRegisterChallenge/GuidedProject/MySolution/Starter.csproj",
       "packagesPath": "/home/gus/.nuget/packages/",
-      "outputPath": "/home/gus/git/C_sharp/Guided-project-debugging-CSharp-main/GuidedProject/MySolution/obj/",
+      "outputPath": "/home/gus/git/C_sharp/CashRegisterChallenge/GuidedProject/MySolution/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gus/.nuget/NuGet/NuGet.Config"
