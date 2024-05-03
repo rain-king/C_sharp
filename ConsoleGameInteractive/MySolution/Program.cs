@@ -59,6 +59,9 @@ void PlayerEffect()
         case "(X_X)":
             FreezePlayer();
             break;
+        default:
+            fastMovement = false;
+            break;
     }
 }
 
@@ -121,18 +124,22 @@ void Move(bool exitOnNonDirectionalKey = false, bool fastMovement = false)
     switch (Console.ReadKey(true).Key) 
     {
         case ConsoleKey.UpArrow:
+        case ConsoleKey.W:
             playerY--; 
             break;
-		case ConsoleKey.DownArrow: 
+		case ConsoleKey.DownArrow:
+        case ConsoleKey.S:
             playerY++; 
             break;
-		case ConsoleKey.LeftArrow:  
+		case ConsoleKey.LeftArrow:
+        case ConsoleKey.A:
             if (fastMovement)
                 playerX -= 3;
             else
                 playerX--; 
             break;
-		case ConsoleKey.RightArrow: 
+		case ConsoleKey.RightArrow:
+        case ConsoleKey.D:
             if (fastMovement)
                 playerX += 3;
             else
