@@ -1,0 +1,3 @@
+[submodule "CSharpPlayersGuide"]
+	path = CSharpPlayersGuide
+	url = git@github.com:rain-king/CSharpPlayersGuide.git
